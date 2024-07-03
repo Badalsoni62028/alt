@@ -1,2 +1,2 @@
 # alt
-This is a demo for Github class
+This is a demo for Github class.
